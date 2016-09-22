@@ -12,6 +12,7 @@ C
       
       WRITE(6,*)'Hello world!'
       WRITE(7,*)'Hello world!'
+      field(1)=1;
            
       RETURN
       END
