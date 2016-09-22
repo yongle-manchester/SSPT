@@ -11,6 +11,7 @@ C
       DIMENSION ARRAY(15),JARRAY(15),JMAC(*),JMATYP(*),COORD(*)
       
       WRITE(6,*)'Hello world!'
+      WRITE(7,*)'Hello world!'
            
       RETURN
       END
