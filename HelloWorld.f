@@ -15,6 +15,7 @@ C
       field(1)=1;
       field(2)=1;
       statev(1)=1;
+      WRITE(6,*)'WHAT HAPPENS?'
            
       RETURN
       END
